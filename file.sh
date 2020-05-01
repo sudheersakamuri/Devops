@@ -1,12 +1,7 @@
+#!/bin/bash
 
+free -m
+date
+uname -r
 
-
-!/bin/bash
-
-
-sudo touch file{1..4}
-
-echo "The job is build successfully"
-
-
-
+echo="The sudheerjob1 is Build Successfully"
